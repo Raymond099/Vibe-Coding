@@ -1,0 +1,5 @@
+{
+  "name": "VibeCode IDE",
+  "description": "A high-performance, AI-powered coding environment for the 'Vibe Coding' era. Built with Gemini and TensorFlow.js.",
+  "requestFramePermissions": []
+}
